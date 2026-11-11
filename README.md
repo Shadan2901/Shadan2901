@@ -1,16 +1,31 @@
-## Hi there 👋
+[profile-README-template.md](https://github.com/user-attachments/files/34684995/profile-README-template.md)
+# Hi, I'm Ahmad Shafiq Daniel Bin Salimi 👋
 
-<!--
-**Shadan2901/Shadan2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Computer Science (Hons.) student at Universiti Teknologi MARA (UiTM), interested in software development, multimedia design, Artificial Intelligence, and Machine Learning.
 
-Here are some ideas to get you started:
+## About Me
+- **Studying:** Bachelor of Computer Science (Hons.), UiTM
+- **Currently learning:** GitHub, Machine Learning and software development, Coding
+- **My FYP area:** Still deciding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Tools
+- HTML
+- JavaScript
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Adobe After Effects
+- Blender
+- Autodesk Maya
+- Unity
+- Adobe XD
+- Python
+- java
+
+## Projects
+- **BELANJAWAN** – A Machine Learning-Based Personal Budget Management Application designed to help university students track expenses, manage budgets and analyse spending patterns.
+  - GitHub Repository: https://github.com/Shadan2901/BELANJAWAN-A-MACHINE-LEARNING-BASED-PERSONAL-BUDGET-MANAGEMENT-APPLICATION/tree/main
+
+## Contact
+- **LinkedIn:** [Paste your LinkedIn profile link here]
+- **Email:** 2025427206@student.uitm.edu.my
