@@ -1,4 +1,3 @@
-[profile-README-template.md](https://github.com/user-attachments/files/34684995/profile-README-template.md)
 # Hi, I'm Ahmad Shafiq Daniel Bin Salimi 👋
 
 I'm a Bachelor of Computer Science (Hons.) student at Universiti Teknologi MARA (UiTM), interested in software development, multimedia design, Artificial Intelligence, and Machine Learning.
