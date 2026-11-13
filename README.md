@@ -26,5 +26,5 @@ I'm a Bachelor of Computer Science (Hons.) student at Universiti Teknologi MARA 
   - GitHub Repository: https://github.com/Shadan2901/BELANJAWAN-A-MACHINE-LEARNING-BASED-PERSONAL-BUDGET-MANAGEMENT-APPLICATION/tree/main
 
 ## Contact
-- **LinkedIn:** [Paste your LinkedIn profile link here]
+- **LinkedIn:** www.linkedin.com/in/shafiq-daniel-4465a92a6
 - **Email:** 2025427206@student.uitm.edu.my
