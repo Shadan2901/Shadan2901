@@ -5,7 +5,7 @@ I'm a Bachelor of Computer Science (Hons.) student at Universiti Teknologi MARA 
 ## About Me
 - **Studying:** Bachelor of Computer Science (Hons.), UiTM
 - **Currently Learning:** GitHub, Machine Learning, Software Development, and Programming
-- **FYP Area:** Data Science
+- **FYP Area:** Machine learning (ML)
 
 ## Tech Stack
 
